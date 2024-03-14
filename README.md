@@ -17,5 +17,4 @@ class Overloading {
     public void print(double d) {
         System.out.println("Double : " + d);
     }
-}# -TUGAS-POLIMORFISME
- kode program menggunakan sintaks pemrograman JAVA yang menerapkan polimorfisme yaitu overloading dan overriding dengan permasalahan bebas
+}
